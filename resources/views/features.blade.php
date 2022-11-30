@@ -18,9 +18,9 @@
                 <h3>Progress Bar</h3>
                 <p></p>
             </div>
-            <div id = "feature_3">
+            <div id = "resource_checklist">
                 <img src ="#">
-                <h3>Feature Three</h3>
+                <h3>Resource Checklist</h3>
                 <p></p>
             </div>
 
