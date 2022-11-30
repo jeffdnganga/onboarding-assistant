@@ -2,7 +2,12 @@
     <h1> About Us </h1>
 
     <div id = "project_description">
-        <p>
+        <p> For new employess joining a company the onboarding process often
+            tends to be confusinig, hectic and time consuming. Similarly for
+            the HR it is often difficult to track the onboarding status of new
+            employees. One of our members were frustrated by the onboarding
+            status of the company they joined thus leading inspiring us to
+            attempt to solve the issue.
 
         </p>
 
